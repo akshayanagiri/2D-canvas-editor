@@ -1,4 +1,4 @@
-# 🎨 CanvasEditor — Interactive Canvas Application
+# 🎨 2D CanvasEditor — Interactive Canvas Application
 
 A full-featured, responsive collaborative vector canvas built with **React**, **Fabric.js v6**, and **Firebase Firestore**.
 
